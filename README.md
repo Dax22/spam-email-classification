@@ -1,4 +1,4 @@
-# spam-email-classification
+# Spam-email-classification
 Content Based Filtering Technique for spam email classification
 Content Based Filtering Technique: Content based filtering is usually used to create automatic filtering rules and to classify emails using machine learning approaches, such as Naïve Bayesian classification, Support Vector Machine, K Nearest Neighbor, Neural Networks. This method normally analyses words, the occurrence, and distributions of words and phrases in the content of emails and used then use generated rules to filter the incoming email spams
 
